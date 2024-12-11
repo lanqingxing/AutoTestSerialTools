@@ -1,2 +1,2 @@
 # AutoTestSerialTools
-python自动化测试串口工具
+python自动化测试串口工具，针对威盛和泰瑞杰项目的正常指令和异常指令做自动化测试，还有串口升级测试
